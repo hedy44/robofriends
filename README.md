@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine using Git:
    git clone https://github.com/hedy44/robofriends.git
    
-2.Navigate to the project directory:
+2. Navigate to the project directory:
   cd robofriends
 
 **Install Dependencies:**
