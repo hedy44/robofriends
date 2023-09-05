@@ -59,7 +59,7 @@ This will download and install all the necessary packages and libraries required
 Now you've successfully installed the project and its dependencies on your local machine and are ready to use it.
 
 4. Now start with:
-  npm start
+   npm start
 
 
 
