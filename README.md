@@ -64,5 +64,7 @@ Now you've successfully installed the project and its dependencies on your local
 
       ```npm start```
 
+# View Page
 
+![preview_robots](https://github.com/hedy44/robofriends/assets/107856543/d42126a1-58b0-4dbd-8d7e-a8e630b5d4f9)
 
