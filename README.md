@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# RoboFriends (Course Project)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the project work for the RoboFriends web application. Please note that this project is part of a course that I am currently taking, and it is not an original creation.
 
-## Available Scripts
+## Course Information
 
-In the project directory, you can run:
+- **Course Name:** [The complete Web developer in 2023: Zero to mastery]
+- **Platform:** [Udemy]
+- **Instructor:** [Andrei Neagoie]
 
-### `npm start`
+## Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Robofriends
+🤖 The place for robots to meat each other.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+It was used:
+- [Tachyons](https://tachyons.io/) as CSS Framework to give aditional styles, and this two API's:
+- [Robohash](https://robohash.org/): For the robot images
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/): For the robots info
 
-### `npm test`
+Features:
+- [X] Search by name or any field existing on the user.
+- [X] CSS Animated.
+- [X] Fully responsive.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Disclaimer
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It has been created with educational purposes following the course "Zero To Mastery" by Andrei Neaoie ([@aneagoie](https://github.com/aneagoie)) with some modifications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Follow the instructions below to set up and run this project on your local machine.
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To run this project locally, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Prerequisites:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Node.js](https://nodejs.org/) should be installed on your system. We recommend using the latest LTS version.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Clone the Repository:**
 
-## Learn More
+1. Clone this repository to your local machine using Git:
+   git clone https://github.com/hedy44/robofriends.git
+   
+2.Navigate to the project directory:
+  cd robofriends
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Install Dependencies:**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Install the project dependencies by running the following command:
+  npm install
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This will download and install all the necessary packages and libraries required to run the RoboFriends application.
 
-### Analyzing the Bundle Size
+Now you've successfully installed the project and its dependencies on your local machine and are ready to use it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4. Now start with:
+  npm start
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
