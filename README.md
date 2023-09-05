@@ -46,12 +46,14 @@ To run this project locally, follow these steps:
    git clone https://github.com/hedy44/robofriends.git
    
 2. Navigate to the project directory:
-  cd robofriends
+
+     ```cd robofriends```
 
 **Install Dependencies:**
 
 3. Install the project dependencies by running the following command:
-  npm install
+
+     ```npm install```
 
 
 This will download and install all the necessary packages and libraries required to run the RoboFriends application.
@@ -59,7 +61,8 @@ This will download and install all the necessary packages and libraries required
 Now you've successfully installed the project and its dependencies on your local machine and are ready to use it.
 
 4. Now start with:
-   npm start
+
+      ```npm start```
 
 
 
