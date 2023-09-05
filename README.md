@@ -4,9 +4,9 @@ This repository contains the project work for the RoboFriends web application. P
 
 ## Course Information
 
-- **Course Name:** [The complete Web developer in 2023: Zero to mastery]
-- **Platform:** [Udemy]
-- **Instructor:** [Andrei Neagoie]
+- **Course Name:** The complete Web developer in 2023: Zero to mastery
+- **Platform:** Udemy
+- **Instructor:** Andrei Neagoie
 
 ## Project Overview
 
